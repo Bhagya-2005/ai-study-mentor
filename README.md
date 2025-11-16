@@ -1,3 +1,5 @@
+Kaggle Notebook: https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups
+
 📚 AI Study Mentor
 
 An interactive AI-powered study assistant built with Streamlit, designed to help students learn faster and smarter. It generates summaries, explanations, audio lessons, and organized study notes.
